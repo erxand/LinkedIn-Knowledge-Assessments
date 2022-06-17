@@ -2,31 +2,33 @@
 
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The purpose of this project was to familiarize myself with LinkedIn and LinkedIn Learning, as they are both tools that can help further my career and understanding of my field.
 
-{Provide a description the software that you wrote.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+My university has given us access to LinkedIn Learning free of cost, I decided to take advantage of that. I want to become proficient enough to pass the skill assessments on LinkedIn, so I spent time with LinkedIn Learning to gain those skills.
 
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [LinkedIn](www.linkedin.com)
+* [LinkedIn Learning](www.linkedin.com/learning)
+* [Available Skill Assessments](https://www.linkedin.com/help/linkedin/answer/a507734/available-skill-assessments-on-linkedin?lang=en)
+
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+The skill assessments were much harder than anticipated, I think helps add to the validity of the LinkedIn certifications. The primary three skills I want to achieve are:
+* Git
+* Agile Methodologies
+* Object-Oriented Programming
+Each of these have associated LinkedIn learning courses that I would like to complete in the future.
+
+I also did research into what other courses were on LinkedIn Learning, even if they didn't have associated skill assessments. These are courses that I would like to take in the future, they're either skills I'm personally interested in having, or they're skills that companies I would like to work at want me to have.
+* Flutter: Parts 1-10
+* Learning Docker
+* Become a C++ Developer
+* Master C++
+* Advanced Python
+* DevOps Foundations
